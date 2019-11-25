@@ -1,0 +1,4 @@
+baseURL = "https://erudio.us"
+languageCode = "en-us"
+title = "Erudio"
+theme = "leanstudy"

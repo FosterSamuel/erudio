@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erudio</title>
+    <link>https://erudio.us/</link>
+    <description>Recent content on Erudio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 10:24:25 -0800</lastBuildDate>
+    
+	<atom:link href="https://erudio.us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://erudio.us/posts/test/</link>
+      <pubDate>Mon, 25 Nov 2019 10:24:25 -0800</pubDate>
+      
+      <guid>https://erudio.us/posts/test/</guid>
+      <description>Test.</description>
+    </item>
+    
+  </channel>
+</rss>
