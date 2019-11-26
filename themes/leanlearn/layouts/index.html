@@ -1,9 +1,8 @@
 {{ define "main" }}
-	<main>
-		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-		{{ range $paginator.Pages }}
+	<main class="stack center">
+		<h1>Thoughts on Teaching</h1>
+		{{ range .Pages.ByDate }}
 			{{ .Render "summary" }}
 		{{ end }}
 	</main>
-{{ partial "sidebar.html" . }}
 {{ end }}
