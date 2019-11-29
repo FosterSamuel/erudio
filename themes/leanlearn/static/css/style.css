@@ -11,7 +11,7 @@
   --s3: calc(var(--s2) * var(--ratio));
   --s4: calc(var(--s3) * var(--ratio));
   --s5: calc(var(--s4) * var(--ratio));
-  --measure: 70ch;
+  --measure: 80ch;
   --regular-text: 1.10rem;
   --header-text: 1.25rem;
 }
@@ -89,6 +89,7 @@ time {
 
 @media(min-width: 700px) {
   * {
-    --regular-text: 1.35rem;
+    --regular-text: 1.50rem;
+    --measure: 85ch;
   }
 }
