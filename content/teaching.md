@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2019-12-31T14:16:54-08:00
+lastmod: 2019-12-31T14:17:00-08:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 
 Someone was curious about a subject. They read blog posts, culled research papers, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
 
-Self-learning is now at its most accessible. The internet connects you to a subject and its fervent communities. There, the subject's pundits and novices sharpen eachother. The discourse spurs frustration in the Undergraduate. What value does teaching reliably provide that the community doesn't?
+Self-learning is now at its most accessible. The internet connects you to a subject and its fervent communities. The subject's pundits and novices sharpen eachother. The discourse frustrates the Undergraduate. What value does teaching reliably provide that the community does not?
 
 # Common mistakes
 Mistakes are valuable to learning, and many of the common ones need to be experienced first-hand. For example, telling students to "not write in the passive voice" robs them of learning from the impact of converting sentences to the active voice.
