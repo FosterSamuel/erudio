@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2020-01-05T15:25:00-08:00
+lastmod: 2020-01-05T15:49:00-08:00
 draft: false
 ---
 
-Someone wanted to learn. They read blog posts, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
+I wanted to learn topology. I watched YouTube tutorials, read blog posts, and started on basic problems. Genuine interest drove me.
 
 Self-learning is now at its most accessible. The internet connects you to every subject and their fervent communities. There, the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
 
