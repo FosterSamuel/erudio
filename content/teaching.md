@@ -1,13 +1,11 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2020-01-04T16:15:00-08:00
+lastmod: 2020-01-05T15:25:00-08:00
 draft: false
 ---
 
-*This is a draft. Return soon for a full version.*
-
-Someone was curious about a subject. They read blog posts, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
+Someone wanted to learn. They read blog posts, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
 
 Self-learning is now at its most accessible. The internet connects you to every subject and their fervent communities. There, the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
 
@@ -21,14 +19,13 @@ The teacher knows, encourages, and builds a space to learn from worthwhile error
 # The Middle
 Self-learners struggle in the middle. The internet teems with beginner and expert material, leaving a chasm for intermediate content. 
 
-Knowing what a learner does not know is hard. Assuming they know nothing or almost everything is easier. [ expand this section ]
+Teaching online is easier when you assume the learner knows nothing or almost everything. When attempting to teach the middle online, material is wittled smooth. This cuts away alternative paths and how they fit the middle.
 
-The teacher guides you across the middle. Along the way they show the true width of the middle and the what can be learned in each path. The learner decides which paths to take, saving time and focus.
+The teacher guides you across the middle. Along the way they show the true width of the subject and what can be learned in each path. The learner decides which paths to take, saving time and focus.
 
-# Pushing Self-learning
-Traditional teaching trickles the subject down to the student. Mandatory readings increase the transfer rate. Exams monitor the transfer and promise an accurate reading.
+# New Approach
+Traditional teaching trickles the subject down to the student. Mandatory readings grow the transfer rate. Exams monitor the transfer with promises of an accurate reading.
 
+The current model proved itself. Information evolved, however, to be always available. A gap separates students who expand their learning with the internet. The divide will grow.
 
-
-*[ . . . will be continued. ]*
-
+I propose teaching adapt by focusing on its inherent strengths.
