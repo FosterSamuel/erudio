@@ -1,27 +1,34 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2019-12-31T14:17:00-08:00
+lastmod: 2020-01-04T16:15:00-08:00
 draft: false
 ---
 
 *This is a draft. Return soon for a full version.*
 
-Someone was curious about a subject. They read blog posts, culled research papers, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
+Someone was curious about a subject. They read blog posts, watched YouTube tutorials, and started a weekend project. Genuine interest drove them to learn.
 
-Self-learning is now at its most accessible. The internet connects you to a subject and its fervent communities. The subject's pundits and novices sharpen eachother. The discourse frustrates the Undergraduate. What value does teaching reliably provide that the community does not?
+Self-learning is now at its most accessible. The internet connects you to every subject and their fervent communities. There, the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
 
-# Common mistakes
-Mistakes are valuable to learning, and many of the common ones need to be experienced first-hand. For example, telling students to "not write in the passive voice" robs them of learning from the impact of converting sentences to the active voice.
+# Worthwhile Errors
+Good mistakes kindle learning. For example, writers learn by reanimating dead sentences. Online resources, however, tell new writers to never write in the passive voice. 
 
-Avoidance of good mistakes is wasteful. The teacher knows good mistakes, encourages them, and shows students how to learn from them. At the same time, the teacher saves a new learner time by notifying common mistakes that are wasteful or misleading.
+Communities follow the same pattern. A new learner posts the wrong answer. An experienced learner shreds it and responds with a correct one. The answer, while informative, may not explain valuable missteps.
 
-# The middle
-The hardest part of self-learning is the middle. Beginner and expert content fills the internet. Intermediate content is rare. Teaching is easier when one  assumes the reader knows nothing or most everything about a subject.
+The teacher knows, encourages, and builds a space to learn from worthwhile errors.
 
-The dilligent teacher takes you across the middle. Along the way they show  the true width of the middle and the material covered in each path. The learner decides which paths to take, saving time and focus.
+# The Middle
+Self-learners struggle in the middle. The internet teems with beginner and expert material, leaving a chasm for intermediate content. 
 
-# Pushing self-learning
-Traditional teaching trickles down information to the student.
+Knowing what a learner does not know is hard. Assuming they know nothing or almost everything is easier. [ expand this section ]
+
+The teacher guides you across the middle. Along the way they show the true width of the middle and the what can be learned in each path. The learner decides which paths to take, saving time and focus.
+
+# Pushing Self-learning
+Traditional teaching trickles the subject down to the student. Mandatory readings increase the transfer rate. Exams monitor the transfer and promise an accurate reading.
+
+
 
 *[ . . . will be continued. ]*
+
