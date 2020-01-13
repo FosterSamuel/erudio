@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2020-01-05T15:49:00-08:00
+lastmod: 2020-01-13T14:45:00-08:00
 draft: false
 ---
 
