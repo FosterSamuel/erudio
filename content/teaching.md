@@ -1,13 +1,13 @@
 ---
 title: "Teaching"
 date: 2019-11-29T14:26:25-08:00
-lastmod: 2020-01-13T14:45:00-08:00
+lastmod: 2020-01-13T14:48:00-08:00
 draft: false
 ---
 
 I wanted to learn topology. I watched YouTube tutorials, read blog posts, and started on basic problems.
 
-Self-learning is at a new level of accessibility. The internet brings you every subject and its  fervent communities. There, the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
+Self-learning is at a new level of accessibility. The internet brings you every subject and its  fervent communities. In each the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
 
 # Worthwhile Errors
 New writers go online and learn the absolute rule: never write in the passive voice. So they don't. They miss out on writing and reanimating dead sentences.
