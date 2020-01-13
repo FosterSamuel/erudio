@@ -16,12 +16,40 @@
   --header-text: 1.5rem;
 }
 
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: normal;
+    font-style: normal;
+    src: local("Linux Libertine"), url("../fonts/LinLibertine_R.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: normal;
+    font-style: italic;
+    src: local("Linux Libertine Italic"), url("../fonts/LinLibertine_RI.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: bold;
+    font-style: normal;
+    src: local("Linux Libertine Bold"), url("../fonts/LinLibertine_RB.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: bold;
+    font-style: italic;
+    src: local("Linux Libertine Bold Italic"), url("../fonts/LinLibertine_RBI.woff") format("woff");
+}
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: -apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
   max-width: var(--measure);
+  font-family: 'Linux Libertine', serif;
   text-rendering: optimizeLegibility;
 }
 
@@ -35,7 +63,7 @@ footer {
 }
 
 body {
-	background: #ffd69c;
+	background: #ffbf66;
   color: #091702;
   line-height: 1.54;
 }
@@ -46,6 +74,7 @@ header, footer {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: var(--s2);
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
   font-size: var(--header-text);
   text-rendering: optimizeLegibility;
   overflow-wrap: break-word;
@@ -57,7 +86,6 @@ p {
   overflow-wrap: break-word;
   word-break: break-word;
   text-rendering: optimizeLegibility;
-  letter-spacing: -0.25px;
 }
 
 time {
@@ -99,8 +127,13 @@ a {
 
 @media(min-width: 700px) {
   * {
-    --regular-text: 1.25rem;
+    --regular-text: 1.3rem;
     --header-text: 1.5rem;
     --measure: 70ch;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+  }
+
+  p {
+    letter-spacing: -0.25px;
   }
 }
