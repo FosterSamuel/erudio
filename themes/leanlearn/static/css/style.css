@@ -12,7 +12,7 @@
   --s4: calc(var(--s3) * var(--ratio));
   --s5: calc(var(--s4) * var(--ratio));
   --measure: 80ch;
-  --regular-text: 1.10rem;
+  --regular-text: 1.3rem;
   --header-text: 1.5rem;
 }
 
