@@ -1,7 +1,7 @@
 ---
 title: "Fit"
 date: 2020-01-14T10:35:05-08:00
-lastmod: 2020-01-18T14:32:05-08:00
+lastmod: 2020-01-27T10:13:05-08:00
 draft: false
 ---
 
@@ -11,13 +11,13 @@ On the first day Dr. Garland said we had no homework. We only had to visit his o
 
 In the cramped room piles of papers and books buried his desk. I asked him about his path in the subject. He started sharing but interrupted himself. On a small blackboard he drew a large circle, calling it the world of math. Inside the circle he placed a tiny dot. "This," he said. "This is my life's contribution."
 
-Years of focus power every teacher. Unfortunately, in the classroom, the same focus can unintentionally blind the material. With time the teacher moves away from relating to the experience of a fresh learner. Let's change that.
+Years of focus power every teacher. Unfortunately, in the classroom, the same focus can unintentionally blind the material. Over time the teacher moves away from relating to the experience of a fresh learner. Let's change that.
 
 ## The Narrowed World
 
-A new learner has previous ideas and feelings. Refresh them by bringing the subject to the present. Every pitfall and success in the subject history is another opportunity to heal the learner's expectations. Take liberty in picking stories that cross discipline and location.
+A new learner has previous ideas and feelings. Refresh them by bringing the subject to the present. Every pitfall and success in the subject's history is another opportunity to heal the learner's expectations. Take liberty in picking stories that cross discipline and location.
 
-With the world narrowed by stories a big question emerges: why the new material? Push the learners with questions that show the need for the material. 
+The stories should show practical or interesting use of the subject. For example, if teaching historical preservation, talk about a peculiar find that was uncovered during a building restoration. With the world narrowed by stories a big question emerges: why the new material? Push the learners with questions that show the need for the material. 
 
 ## The Day
 If the need is apparent, learners silently demand an answer. Aim the collective force of that answer at the learner's day. The new material connects, somewhere, to their day. Whether for solving problems or analyzing situations, the subject fits. 
