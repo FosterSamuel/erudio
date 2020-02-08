@@ -1,7 +1,7 @@
 ---
 title: "Fit"
 date: 2020-01-14T10:35:05-08:00
-lastmod: 2020-01-27T10:13:05-08:00
+lastmod: 2020-02-08T08:05:05-08:00
 draft: false
 ---
 
@@ -17,7 +17,11 @@ Years of focus power every teacher. Unfortunately, in the classroom, the same fo
 
 A new learner has previous ideas and feelings. Refresh them by bringing the subject to the present. Every pitfall and success in the subject's history is another opportunity to heal the learner's expectations. Take liberty in picking stories that cross discipline and location.
 
-The stories should show practical or interesting use of the subject. For example, if teaching historical preservation, talk about a peculiar find that was uncovered during a building restoration. With the world narrowed by stories a big question emerges: why the new material? Push the learners with questions that show the need for the material. 
+The stories should show practical use or interesting history of the subject. For example, if teaching historical preservation, talk about a peculiar find that was uncovered during a building restoration. 
+
+History, and other content-focused subjects, will have more readily available stories. For their case, the presentation and interactions with the stories will be more important. For example, instead of reciting an event in history, framing the context of one story and how it led to the decisions will captivate listeners. This example can be driven further by showing how a later event could have learned from the previous situation, demonstrating the importance of studying history.
+
+With the world narrowed by stories a big question emerges: why the new material? Push the learners with questions that show the need for the material. 
 
 ## The Day
 If the need is apparent, learners silently demand an answer. Aim the collective force of that answer at the learner's day. The new material connects, somewhere, to their day. Whether for solving problems or analyzing situations, the subject fits. 
