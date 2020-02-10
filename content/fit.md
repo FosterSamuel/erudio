@@ -1,7 +1,7 @@
 ---
 title: "Fit"
 date: 2020-01-14T10:35:05-08:00
-lastmod: 2020-02-08T08:05:05-08:00
+lastmod: 2020-02-10T08:28:05-08:00
 draft: false
 ---
 
@@ -15,11 +15,11 @@ Years of focus power every teacher. Unfortunately, in the classroom, the same fo
 
 ## The Narrowed World
 
-A new learner has previous ideas and feelings. Refresh them by bringing the subject to the present. Every pitfall and success in the subject's history is another opportunity to heal the learner's expectations. Take liberty in picking stories that cross discipline and location.
+Previous ideas and feelings cloud new learners. Refresh them by bringing the subject to the present. Every pitfall and success in the subject's past is an opportunity to heal the learner's expectations. 
 
-The stories should show practical use or interesting history of the subject. For example, if teaching historical preservation, talk about a peculiar find that was uncovered during a building restoration. 
+For example, if teaching historical preservation, talk about a peculiar find from a building restoration. The restoration process being careful enough to uncover something indirectly demonstrates the practical need for the class. 
 
-History, and other content-focused subjects, will have more readily available stories. For their case, the presentation and interactions with the stories will be more important. For example, instead of reciting an event in history, framing the context of one story and how it led to the decisions will captivate listeners. This example can be driven further by showing how a later event could have learned from the previous situation, demonstrating the importance of studying history.
+Some may argue history, and other content-focused subjects, can't show practical use. For their case, how the stories are presented and interacted with demonstrates their use. Instead of reciting a moment in history, framing its context and how it led to the outcome captivates learners. This example is furthered by showing how a later event could have learned from the previous situation, showing the practical importance of studying history.
 
 With the world narrowed by stories a big question emerges: why the new material? Push the learners with questions that show the need for the material. 
 
