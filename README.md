@@ -1,6 +1,6 @@
 # Erudio
 
-My thoughts and opinions on teaching. Informally: how I approach teaching in real life.
+My thoughts and opinions on teaching.
 
 ## Website
 Erudio is built using [Hugo](https://gohugo.io/) and automatically deployed using [Netlify](https://www.netlify.com/).
