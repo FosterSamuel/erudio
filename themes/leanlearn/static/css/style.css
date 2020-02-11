@@ -108,10 +108,31 @@ a {
   font-size: var(--s0)
 }
 
+.navigate-post {
+  list-style: none;
+}
+
+.navigate-post li:first-child {
+  margin-bottom: var(--s1);
+}
+
+.navigate-post-link {
+  display: block;
+}
+
+.navigate-post-link:empty {
+  display: none;
+}
+
 @media(min-width: 700px) {
   * {
     --regular-text: 1.3rem;
     --header-text: 1.5rem;
     --measure: 70ch;
+  }
+
+  .navigate-post li {
+    display: inline-block;
+    width: 49.5%;
   }
 }

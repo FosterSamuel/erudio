@@ -1,10 +1,23 @@
 {{ define "main" }}
-	<main class="center">
+	<main class="center stack">
+		
 		<article class="stack">
 			<h1>{{ .Title }}</h1>
 			<h2 class="smallprint">Samuel Foster</h2>
 			<p class="smallprint">Last modified <time datetime="{{ .Lastmod }}">{{ .Lastmod.Format "January 2, 2006" }}</time>. Started <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>. View <a target="_blank" rel="noopener" href="https://github.com/FosterSamuel/erudio/commits/master/content/{{ lower .Title }}.md">history.</a></p>
 			{{ .Content }}
 		</article>
+		<ul class="navigate-post">
+		  {{with .Site.RegularPages.Prev . }}
+		  <li class="previous">
+		    <a class="navigate-post-link" href="../{{.RelPermalink}}">&larr;<i>{{ .Title }}</i></a>
+		  </li>
+		  {{end}}
+		  {{with .Site.RegularPages.Next . }}
+		  <li class="next">
+		    <a class="navigate-post-link" href="../{{.RelPermalink}}"><i>{{ .Title }}</i>&rarr;</a>
+		  </li>
+		  {{end}}
+		</ul>
 	</main>
 {{ end }}
