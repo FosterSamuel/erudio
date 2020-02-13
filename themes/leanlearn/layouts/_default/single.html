@@ -8,14 +8,14 @@
 			{{ .Content }}
 		</article>
 		<ul class="navigate-post">
-		  {{with .Site.RegularPages.Prev . }}
+		  {{if .PrevPage}}
 		  <li class="previous">
-		    <a class="navigate-post-link" href="../{{.RelPermalink}}">&larr;<i>{{ .Title }}</i></a>
+		    <a class="navigate-post-link" href="..{{.PrevPage.RelPermalink}}">&larr;<i>{{ .PrevPage.Title }}</i></a>
 		  </li>
 		  {{end}}
-		  {{with .Site.RegularPages.Next . }}
+		  {{if .NextPage}}
 		  <li class="next">
-		    <a class="navigate-post-link" href="../{{.RelPermalink}}"><i>{{ .Title }}</i>&rarr;</a>
+		    <a class="navigate-post-link" href="..{{.NextPage.RelPermalink}}"><i>{{ .NextPage.Title }}</i>&rarr;</a>
 		  </li>
 		  {{end}}
 		</ul>
