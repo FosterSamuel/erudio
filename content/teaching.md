@@ -5,14 +5,12 @@ lastmod: 2020-02-08T08:05:00-08:00
 draft: false
 ---
 
-Self-learning is at a new level of accessibility. The internet brings you every subject and its  fervent communities. In each the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the community does not?
+Self-learning is at a new height of accessibility. The internet brings you every subject and its fervent communities in which both the pundits and novices sharpen each other. The discourse excites and frustrates the Undergraduate. What value does traditional teaching offer that the fervent community does not?
 
 # Worthwhile Errors
-New writers go online and learn the absolute rule: never write in the passive voice. So they don't. They miss out on writing and reanimating dead sentences.
+New writers go online and learn the absolute rule: never write in the passive voice. So they don't. They stare at a blank page and think about how to write a perfectly active sentence. They miss out on writing and reanimating dead sentences.
 
-<blockquote><p>But I kept typing; pouring inane, kindergarten-level drivel into my phone.</p><a rel="noopener" target="_blank" href="https://tjcx.me/posts/consumption-distraction/">Tom Cleveland, "Consume less, create more"</a></blockquote>
-
-Communities follow the same pattern. A new learner posts the wrong answer. An experienced learner shreds it and responds with a correct one. The informative answer often does not explain the valuable missteps.
+Communities follow the same pattern. A new learner posts the wrong answer, and an experienced hobbyist shreds it and responds with a correct one. The informative answer often does not explain the valuable missteps.
 
 Good mistakes kindle learning. The teacher can build a space to encourage and learn from worthwhile errors.
 
