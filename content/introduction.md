@@ -1,13 +1,13 @@
 ---
 title: "Introduction"
 date: 2019-11-27T14:37:28-08:00
-lastmod: 2020-01-22T06:17:28-08:00
+lastmod: 2020-03-08T11:15:28-08:00
 draft: false
 ---
 
 Before college I privately tutored math. Some students thought they were inherently bad at the subject. In reality, years of rushed material and poor grades left shaky fundamentals unchecked. 
 
-I wasn't pointing fingers. For a Calculus student, instead of diving in, we reviewed Algebra. If their Algebra wasn't strong, we reviewed basic operations. Firm foundations let each student fight their pessimistic view of math.
+I wasn't pointing fingers. For a calculus student, instead of diving in, we reviewed algebra. If their algebra wasn't strong, we reviewed basic operations. Firm foundations let each student fight their pessimistic view of math.
 
 After two years I stopped tutoring and began studying computer science at Cal Poly Pomona. College exposed me to every kind of teacher. Dr. Sang taught automata without looking at notes, showing pure and clear recall of the subject. I learned English from the zealous Dr. Golden. His infectious storytelling sparked a genuine interest in the subject. Mr. Baumwirt taught me public speaking. He showed speaking as a standalone skill instead of one stemming from PowerPoint slides.
 
