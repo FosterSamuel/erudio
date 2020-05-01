@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2019-11-27T14:37:28-08:00
-lastmod: 2020-03-08T11:15:28-08:00
+lastmod: 2020-04-30T18:59:28-08:00
 draft: false
 ---
 
@@ -9,9 +9,9 @@ Before college I privately tutored math. Some students thought they were inheren
 
 I wasn't pointing fingers. For a calculus student, instead of diving in, we reviewed algebra. If their algebra wasn't strong, we reviewed basic operations. Firm foundations let each student fight their pessimistic view of math.
 
-After two years I stopped tutoring and began studying computer science at Cal Poly Pomona. College exposed me to every kind of teacher. Dr. Sang taught automata without looking at notes, showing pure and clear recall of the subject. I learned English from the zealous Dr. Golden. His infectious storytelling sparked a genuine interest in the subject. Mr. Baumwirt taught me public speaking. He showed speaking as a standalone skill instead of one stemming from PowerPoint slides.
+After two years I stopped tutoring and began studying computer science at Cal Poly Pomona. College exposed me to every kind of teacher. Dr. Sang taught automata without looking at notes, showing pure and total recall of the subject. I learned English from the zealous Dr. Golden. His infectious storytelling sparked a genuine interest in the subject. Mr. Baumwirt taught natural public speaking. 
 
-I also had forgettable teachers who recited from slides. We read faster than they spoke. Every week we listened for something spoken beyond what was written. We were disappointed.
+I also had forgettable teachers who recited from PowerPoint slides. We read faster than they spoke. Every week we listened for something more than what was written. We were disappointed.
 
 Fueled by frustration, I worked with my friends Justin, Anirban, and Kiana to build the on-campus Software Engineering Association (SEA). We wanted to grow each member's skills. While teaching throughout the club year, I tried multiple approaches. Some didn't work. Others were more effective than I expected.
 
